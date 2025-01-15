@@ -33,3 +33,4 @@ def calculator():
                 print(f"Result: {num1 / num2:.2f}")
 
 calculator()
+"thank you"
